@@ -27,6 +27,8 @@ public class mover : MonoBehaviour
         float xvalue = Input.GetAxis("Horizontal") * Time.deltaTime * movespeed;
         float zvalue = Input.GetAxis("Vertical") * Time.deltaTime * movespeed;
         transform.Translate(xvalue, 0, zvalue);
+        
     }
+    
 }
    

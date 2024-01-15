@@ -6,11 +6,14 @@ TagManager:
   tags:
   - hit
   - hits
+  - 2Complete
+  - complete2
+  - level2
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - 2
   - Water
   - UI
   - 
